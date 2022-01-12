@@ -1,0 +1,9 @@
+Debug/*
+host/Debug/*
+client/Debug/*
+ipch/
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
